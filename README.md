@@ -24,7 +24,7 @@ The following clip is a demo of using Streamlit and storing some mined blocks in
 
 5. Test the blockchain validation process by using the web interface. 
 
-![demo](Images/recording.mov)
+![demo](Images/https://github.com/minhanhle93/PyChain_Ledger/blob/main/Images/recording.mov)
 
 ## Blockchain
 
